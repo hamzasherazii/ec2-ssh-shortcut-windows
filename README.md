@@ -3,7 +3,7 @@
 
 
 ## This guide helps you set up a one-word SSH shortcut (e.g., `sherazi`) to connect to your AWS EC2 instance using PowerShell on Windows 11.
-Note that I'm using AWS EC2 instance just for a guidance, you can apply this knowledge on any server of your choice - you're not limited to AWS EC2!
+### Note that I'm using AWS EC2 instance just for a guidance, you can apply this knowledge on any server of your choice - you're not limited to AWS EC2!
 ---
 
 ## 🛠️ Requirements
